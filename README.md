@@ -1,0 +1,1 @@
+# nextcloud_blue_dark_themes
