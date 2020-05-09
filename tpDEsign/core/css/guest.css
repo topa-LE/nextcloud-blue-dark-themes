@@ -94,9 +94,7 @@ body {
 .wrapper {
 	width: 100%;
 	max-width: 500px;
-	margin-top: 170px !important; 
-        /* margin-top: 10vh; */
-	/* margin-right: 800px !important; */
+	margin-top: 170px !important;
 }
 
 /* Default FORM */
@@ -742,7 +740,7 @@ fieldset.update legend + p {
 	margin-bottom: 0;
 }
 p.info {
-	margin: 35px auto; 
+	margin: 35px auto;
 	/* margin-right: 794px; */
 	text-shadow: 0 0 2px rgba(0, 0, 0, .4); /* better readability on bright background */
 	-webkit-user-select: none;
