@@ -130,7 +130,7 @@ class OC_Theme {
 	 */
 	public function getScssVariables() {
 		return [
-			'color-primary' => '#f6964c',
+		  'color-primary' => '#f6964c',
 			'color-main-background' => '#0e1621',
 			'color-background-dark' => '#16212f',
 			'color-background-darker' => '#102029',
