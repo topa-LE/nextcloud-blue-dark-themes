@@ -162,10 +162,6 @@ filter : invert(100%);
 .notification img.notification-icon {
 filter : invert(100%);
 }
-.icon-settings-white {
-background-image: #fff !important;
-/* filter : invert(100%); */
-}
 #editor-wrapper div.ProseMirror {
 background-color : #011d24 !important ;
 font-size : 20px;
@@ -190,19 +186,19 @@ div.select2-drop {
 background-color : #0e151b;
 }
 #uploadprogressbar .label.inner {
-font-size:14px;
+font-size : 14px;
 }
 #uploadprogressbar {
-font-size:14px;
+font-size : 14px;
 }
 #uploadprogresswrapper {
-font-size:14px;
+font-size : 14px;
 }
 div.select2-container.select2-container-multi .select2-choices {
-font-size: 13px;
+font-size : 13px;
 }
 .section:not(:last-child) {
-border-bottom: 1px solid #16212f;
+border-bottom : 1px solid #16212f;
 }
 .infobox {
 border : #000 solid 1px;
@@ -213,36 +209,34 @@ border-radius : 5px;
 box-shadow : 1px 1px 10px 1px #01070d;
 }
 .infobox h2 {
-color: #e9aa61;
+color : #e9aa61;
 }
 .infobox h3 {
-color: #e9aa61;
+color : #e9aa61;
 }
 #body-public footer p {
-line-height:0.4em;
-font-size: 14px;
+line-height : 0.4em;
+font-size : 14px;
 }
 .sharing-entry__internal .avatar-external[data-v-363f2816] {
-background-color: #131d29 !important;
-border: #080d12 solid 1px;
+background-color : #131d29 !important ;
+border : #080d12 solid 1px;
 }
 .sharing-entry__inherited .avatar-shared[data-v-2ae2c800] {
-background-color: #131d29 !important;
-border: #080d12 solid 1px;
+background-color : #131d29 !important ;
+border : #080d12 solid 1px;
 }
-
-/* Videoplayer */
 .modal-mask--dark[data-v-2a99be04] {
-background-color: rgba(3, 10, 16, 0.92) !important;
+background-color : rgb(3, 10, 16, 0.92) !important ;
 }
 .modal-header .modal-title[data-v-2a99be04] {
-color: #fff;
-font-size: 19px !important;
-font-weight : 500 !important;
+color : #fff;
+font-size : 19px !important ;
+font-weight : 500 !important ;
 }
-.video-js .vjs-play-progress,.video-js  .vjs-volume-level {
-background-color: #e9aa61 !important;
+.video-js .vjs-play-progress, .video-js .vjs-volume-level {
+background-color : #e9aa61 !important ;
 }
 .progressBar::-moz-progress-bar {
-background-color: #e9aa61 !important;
+background-color : #e9aa61 !important ;
 }

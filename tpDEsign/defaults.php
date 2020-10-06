@@ -128,14 +128,14 @@ class OC_Theme {
 	 * Returns variables to overload defaults from core/css/variables.scss
 	 * @return array
 	 */
-	public function getScssVariables() {
-		return [
-		  'color-primary' => '#f6964c',
-			'color-main-background' => '#0e1621',
-			'color-background-dark' => '#16212f',
-			'color-background-darker' => '#102029',
-      'color-border-darker' => '#080d12',
-			'font-face' => 'Saira, Saira Condensed, sans-serif'
-		];
-	}
-}
+	 public function getScssVariables() {
+	        return [
+	        'color-primary' => '#f6964c',
+	        'color-main-background' => '#0e1621',
+	        'color-background-dark' => '#16212f',
+	        'color-background-darker' => '#102029',
+	        'color-border-darker' => '#080d12',
+	        'font-face' => 'Saira, Saira Condensed, sans-serif'
+	        ];
+	 }
+	 }
